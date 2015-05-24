@@ -1,3 +1,15 @@
+zfs-linux (0.6.4.1-1~vivid+benley2) vivid; urgency=medium
+
+  * Tweak to work with all of systemd and upstart and sysvinit
+
+ -- Benjamin Staffin <benley@gmail.com>  Sun, 24 May 2015 13:34:33 -0700
+
+zfs-linux (0.6.4.1-1~vivid+benley1) vivid; urgency=medium
+
+  * Tweak to work with systemd
+
+ -- Benjamin Staffin <benley@gmail.com>  Sun, 24 May 2015 02:23:28 -0700
+
 zfs-linux (0.6.4.1-1~vivid) vivid; urgency=low
 
   [ Tim Chase ]
